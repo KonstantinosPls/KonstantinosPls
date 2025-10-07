@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Konstantinos Plassaras.
 - 👀 I’m interested in becoming a back-end software developer/machine learning engineer.
-- 🌱 I’m currently learning Computer Science at Athens Tech College in Greece, the official European Campus in Athens of University of York.
+- 🌱 I’m currently learning Computer Science at Athens Tech College in Greece, the official European Campus of University of York, based in Athens.
 - 💞️ I’m looking to collaborate with people on many innovative projects.
 - 📫 How to reach me? By e-mail of course!
 - 😄 Pronouns: -
