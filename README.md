@@ -1,6 +1,6 @@
 - 👋 Hello, my name is Konstantinos Plassaras.
 - 👀 I’m an aspiring Artificial Intelligence and Software Engineer.
-- 🌱 I’m currently studying Computer Science at Athens Tech College in Greece, the official European Campus of University of York, while working as a junior AI/Software engineer in BookScanner S.A, a company based in Greece.
+- 🌱 I’m currently studying Computer Science at Athens Tech College in Greece, the official European Campus of University of York, while working as a junior AI/Software engineer in BookScanner S.A, a startup company based in Greece.
 - 📫 You can always reach me through my Linkedin profile or Email.
 
 - The tech stack that i'm currently familiar with and use :
