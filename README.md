@@ -22,11 +22,10 @@
 ```yaml
 name:        Konstantinos Plassaras
 role:        Aspiring AI & Software Engineer
-education:   BSc Computer Science @ Athens Tech College
-             (European Campus of University of York)
+education:   BSc Computer Science @ University of York
 work:        Junior AI/Software Engineer @ BookScanner S.A.
 location:    Athens, Greece 🇬🇷
-focus:       AI · Backend · Time-Series · Distributed Systems
+focus:       AI · ML · Backend · Full-stack 
 reach_me:    LinkedIn · Email
 ```
 
