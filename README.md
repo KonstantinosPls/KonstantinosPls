@@ -40,10 +40,6 @@ reach_me:    LinkedIn · Email
 ### Tech Stack
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KonstantinosPls/KonstantinosPls/main/tech-marquee.svg" alt="Tech stack carousel" />
-</p>
-
-<p align="center">
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" /></a>
   <a href="https://www.oracle.com/java/"><img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=openjdk&logoColor=white" alt="Java" /></a>
   <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" /></a>
@@ -71,8 +67,8 @@ reach_me:    LinkedIn · Email
 ### GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KonstantinosPls&show_icons=true&theme=merko&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KonstantinosPls&layout=compact&theme=merko&hide=html,css&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.hackclub.dev/api?username=KonstantinosPls&show_icons=true&theme=merko&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.hackclub.dev/api/top-langs/?username=KonstantinosPls&layout=compact&theme=merko&hide=html,css&hide_border=true" />
 </p>
 
 <p align="center">
@@ -100,7 +96,7 @@ reach_me:    LinkedIn · Email
 ---
 
 <p align="center">
-  <i>"Build, break, fix, repeat."</i>
+  <i>"If it works, tell the agent not to touch it."</i>
 </p>
 
 <!---
