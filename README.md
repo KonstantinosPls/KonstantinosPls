@@ -67,8 +67,8 @@ reach_me:    LinkedIn · Email
 ### GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.hackclub.dev/api?username=KonstantinosPls&show_icons=true&theme=merko&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.hackclub.dev/api/top-langs/?username=KonstantinosPls&layout=compact&theme=merko&hide=html,css&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=KonstantinosPls&show_icons=true&theme=merko&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KonstantinosPls&layout=compact&theme=merko&hide=html,css&hide_border=true" />
 </p>
 
 <p align="center">
