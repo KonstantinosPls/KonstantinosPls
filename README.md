@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://github.com/KonstantinosPls">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=800&color=1B5E20&center=true&vCenter=true&width=720&lines=Hi+there%2C+I'm+Konstantinos;Aspiring+AI+%26+Software+Engineer;CS+Student+%40+Athens+Tech+College;Junior+Engineer+%40+BookScanner+S.A." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=800&color=1B5E20&center=true&vCenter=true&width=720&lines=Hi+there%2C+I'm+Konstantinos;Aspiring+AI+%26+Software+Engineer;CS+Student+%40+University+Of+York;Junior+Engineer+%40+BookScanner+S.A." alt="Typing SVG" />
   </a>
 </h1>
 
@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/konstantinos-plassaras/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:astefanopoulos@bookscanner.gr">
+  <a href="mailto:kplassaras@outlook.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <img src="https://img.shields.io/badge/Location-Athens%2C+Greece-1B5E20?style=flat&logo=googlemaps&logoColor=white" alt="Location" />
@@ -21,19 +21,18 @@
 
 ```yaml
 name:        Konstantinos Plassaras
-role:        Aspiring AI & Software Engineer
-education:   BSc Computer Science @ Athens Tech College
-             (European Campus of University of York)
+role:        Software Engineer
+education:   BSc Computer Science @ University of York
 work:        Junior AI/Software Engineer @ BookScanner S.A.
 location:    Athens, Greece
-focus:       AI · Backend · Time-Series · Distributed Systems
+focus:       AI · ML · Full-Stack · Backend
 reach_me:    LinkedIn · Email
 ```
 
 <details>
   <summary><b>A bit more about my journey</b></summary>
   <br/>
-  I'm a Computer Science student passionate about building intelligent systems and clean, scalable software. By day I work on real-world AI and engineering challenges at <b>BookScanner S.A.</b>, and by night I explore everything from time-series forecasting to formal verification. Always learning, always shipping.
+  I'm a Computer Science student passionate about building intelligent systems and clean, scalable software. I currently work at <b>BookScanner S.A.</b>, while on my free time I explore various concepts such as Game AI and Deep Learning . Always keen to learn.
 </details>
 
 ---
