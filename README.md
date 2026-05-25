@@ -1,12 +1,12 @@
 # Konstantinos Plassaras
 
-Software engineer working on AI/ML and full-stack systems. CS student at the **University of York** and Junior AI/Software Engineer at **BookScanner S.A.** in Athens, Greece. Interested in machine learning, computer graphics and backend systems.
+Software engineer working on AI/ML and full-stack systems. CS student at **University of York** and Junior AI/Software Engineer at **BookScanner S.A.** in Athens, Greece. Interested in machine learning, computer graphics and backend systems.
 
 [LinkedIn](https://www.linkedin.com/in/konstantinos-plassaras/) · [Email](mailto:kplassaras@outlook.com)
 
 ---
 
-## Selected work
+## Featured Projects
 
 | Project | Stack | Description |
 | :--- | :--- | :--- |
@@ -17,7 +17,7 @@ Software engineer working on AI/ML and full-stack systems. CS student at the **U
 
 ---
 
-<sub><i>"If it works, tell the agent not to touch it."</i></sub>
+<i>"If it works, tell the agent not to touch it."</i>
 
 <!---
 KonstantinosPls/KonstantinosPls is a special repository because its README.md (this file) appears on your GitHub profile.
